@@ -1,5 +1,6 @@
 import { useState } from "react"
 
+// um vetor de objetos
 const pokemonList = [
     {id:1, nome:"Bulbassauro"},
     {id:4, nome:"Charmander"},
